@@ -2,6 +2,8 @@
 
 [AoC](https://adventofcode.com/)
 
+:star: 38/50
+
 | Day   | Part 1 | Part 2 |
 |-------|--------|--------|
 | Day 01 | :white_check_mark:    | :white_check_mark:    |
