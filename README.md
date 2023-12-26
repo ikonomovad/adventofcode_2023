@@ -2,7 +2,7 @@
 
 [AoC](https://adventofcode.com/)
 
-:star: 38/50
+:star: 40/50
 
 | Day   | Part 1 | Part 2 |
 |-------|--------|--------|
