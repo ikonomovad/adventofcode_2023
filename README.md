@@ -2,7 +2,7 @@
 
 [AoC](https://adventofcode.com/)
 
-:star: 44/50
+:star: 46/50
 
 | Day   | Part 1 | Part 2 |
 |-------|--------|--------|
@@ -25,7 +25,7 @@
 | Day 17 | :white_check_mark:    | :white_check_mark:    |
 | Day 18 | :white_check_mark:    | :white_check_mark:    |
 | Day 19 | :white_check_mark:    | :white_check_mark:    |
-| Day 20 | :x:                  | :x:                  |
+| Day 20 | :white_check_mark:    | :white_check_mark:    |
 | Day 21 | :white_check_mark:    | :x:                  |
 | Day 22 | :white_check_mark:    | :white_check_mark:   |
 | Day 23 | :x:                  | :x:                  |
